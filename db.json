@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "RegisteredUsers": [
+    {
+      "fullname": "riya",
+      "email": "riya12@gmail.com",
+      "password": "babuchak",
+      "mobile": 9987654321,
+      "id": 1,
+      "income": 12000,
+      "threshold": 5000,
+      "currentexpenditure": 1000,
+      "expenses": []
+    },
+    {
+      "fullname": "Disha Rane",
+      "email": "disha.rane10@gmail.com",
+      "password": "rane@123",
+      "mobile": 9834392213,
+      "id": 2
+    },
+    {
+      "fullname": "riya",
+      "email": "riyasoni123@gmail.com",
+      "password": "babuchak",
+      "mobile": 9892321766,
+      "id": 3,
+      "income": 12000,
+      "threshold": 5000,
+      "currentexpenditure": 1000,
+      "expenses": []
+    },
+    {
+      "fullname": "riya",
+      "email": "riyasoni12345@gmail.com",
+      "password": "babuchak",
+      "mobile": 9892321745,
+      "id": 4,
+      "income": 10000,
+      "threshold": 2000,
+      "currentexpenditure": 1000,
+      "expenses": []
+    },
+    {
+      "fullname": "bala",
+      "email": "bala@gmail.com",
+      "password": "123",
+      "mobile": 9999999999,
+      "id": 5,
+      "income": 120000,
+      "threshold": 80000,
+      "currentexpenditure": 1600,
+      "expenses": [
+        {
+          "movie": [
+            600
+          ]
+        }
+      ]
+    }
+  ]
+}
